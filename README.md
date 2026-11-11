@@ -1,0 +1,2 @@
+# ESP32_Automate_Gided_Vehicule
+ESP32 4WD Line Follower Robot  This project contains the Arduino/C++ code for an autonomous 4WD line-following robot powered by an ESP32 micro-controller.  Key Features & Hardware:  Microcontroller: ESP32  Motor Driver: L298N dual H-bridge  Sensors: 3x TCRT5000 IR reflectance sensors  Power: 2x 18650 Li-ion batteries (in series)  Steering: Custom differential steering algorithm with speed threshold handling (min. PWM 120) to prevent motor stalling.
